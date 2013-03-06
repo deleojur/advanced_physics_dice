@@ -1,0 +1,17 @@
+﻿Build started 2/25/2013 10:54:30 AM.
+     1>Project "E:\School\Advanced Physics\Advanced_physics_ragdoll\Advanced_physics_ragdoll\Advanced_physics_ragdoll.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\School\Advanced Physics\Advanced_physics_ragdoll\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Advanced_physics_ragdoll.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Advanced_physics_ragdoll.exe.embed.manifest.res" Debug\Advanced_physics_ragdoll_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\School\Advanced Physics\Advanced_physics_ragdoll\Debug\Advanced_physics_ragdoll.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\School\Advanced Physics\cyclone-physics-master\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Advanced_physics_ragdoll.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\School\Advanced Physics\Advanced_physics_ragdoll\Debug\Advanced_physics_ragdoll.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\School\Advanced Physics\Advanced_physics_ragdoll\Debug\Advanced_physics_ragdoll.lib" /MACHINE:X86 Debug\Advanced_physics_ragdoll.exe.embed.manifest.res
+     1>LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+     1>E:\School\Advanced Physics\Advanced_physics_ragdoll\Debug\Advanced_physics_ragdoll.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "E:\School\Advanced Physics\Advanced_physics_ragdoll\Advanced_physics_ragdoll\Advanced_physics_ragdoll.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36
